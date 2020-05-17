@@ -1,0 +1,13 @@
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.csprojAssemblyReference.cache
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.AssemblyInfoInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.AssemblyInfo.cs
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\bin\Debug\netcoreapp3.1\AtividadeHeranca.exe
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\bin\Debug\netcoreapp3.1\AtividadeHeranca.deps.json
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\bin\Debug\netcoreapp3.1\AtividadeHeranca.runtimeconfig.json
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\bin\Debug\netcoreapp3.1\AtividadeHeranca.runtimeconfig.dev.json
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\bin\Debug\netcoreapp3.1\AtividadeHeranca.dll
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\bin\Debug\netcoreapp3.1\AtividadeHeranca.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.dll
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\AtividadeHeranca\AtividadeHeranca\obj\Debug\netcoreapp3.1\AtividadeHeranca.genruntimeconfig.cache
